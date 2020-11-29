@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Gupta! 👋
 
-## I'm a a Student, Data Science Practitioner and an Open-Source Enthusiast
+## I'm a Student, Data Science Practitioner and an Open-Source Enthusiast
 
 - 🔭 I’m currently participating in [NJACK Winter of Code](https://njackwinterofcode.github.io/)!
 - 👯 I’m looking to collaborate with other content creators
@@ -16,7 +16,7 @@
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+### :zap: Github Stats
 
   <img align="left" alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya-Gupta1&show_icons=true&hide_border=true" />
 
