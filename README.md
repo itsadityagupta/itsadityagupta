@@ -15,12 +15,11 @@
 
 <br />
 
-<details>
 ### :zap: Github Stats
-
+<p>
   <img align="left" alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya-Gupta1&show_icons=true&hide_border=true" />
+</p>
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/aditya-gupta008
 [twitter]: https://www.twitter.com/itsadityagupta
