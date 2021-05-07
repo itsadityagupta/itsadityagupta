@@ -2,9 +2,9 @@
 
 ## I'm a Student, Data Science Practitioner and an Open-Source Enthusiast
 
-- 🔭 I’m currently participating in [NJACK Winter of Code](https://njackwinterofcode.github.io/)!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Current Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on ElectronJs.
+- 👯 I’m looking to collaborate with other 
+- 🥅 Current Goals: To gain a wide range to technical exposure by contributing to Open Source projects
 
 ### Connect with me:
 
