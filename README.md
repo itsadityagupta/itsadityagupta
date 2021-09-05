@@ -1,10 +1,7 @@
-### Hi there, I'm Aditya Gupta! 👋
+## Hi there, Welcome to my profile! 👋
 
-## I'm a Student, Data Science Practitioner and an Open-Source Enthusiast
-
-- 🔭 I’m currently working on ElectronJs.
-- 👯 I’m looking to collaborate with other 
-- 🥅 Current Goals: To gain a wide range to technical exposure by contributing to Open Source projects
+- 🔭 I’m currently working as a Data Engineer.
+- 👯 My current tech stack includes Scala, Akka and related technologies.
 
 ### Connect with me:
 
@@ -15,10 +12,11 @@
 
 <br />
 
+### Newsletter: [Weekly Bytes](https://www.getrevue.co/profile/itsadityagupta)
+
 ### :zap: Github Stats
-<p>
-  <img align="left" alt="Aditya Gupta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aditya-Gupta1&show_icons=true&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Gupta1&show_icons=true&theme=gotham&count_private=true" alt="github stats" width="45%" align="right"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gupta1&theme=dark" width="48%" >
 
 
 [linkedin]: https://www.linkedin.com/in/aditya-gupta008
