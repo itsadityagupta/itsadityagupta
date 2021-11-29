@@ -27,7 +27,7 @@
 <a href="https://twitter.com/itsadityagupta"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/aditya-gupta008/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 &ensp;<a href="https://www.instagram.com/itsadityagupta"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a>
-&ensp;<a href="https://adityagupta.hashnode.com/"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
+&ensp;<a href="https://adityagupta.hashnode.dev/"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
 &ensp;<a href="mailto:guptaaditya008@gmail.com"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/gmail.svg" title="Gmail" alt= "Email" width="30"/></a>
 &ensp;<a href="https://www.getrevue.co/profile/itsadityagupta"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/revue.svg" title="Revue Newsletter" alt="Newsletter" width="70"/></a>
 
