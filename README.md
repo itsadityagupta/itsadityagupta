@@ -1,25 +1,25 @@
-![Img](banner1.png)
+<img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/banner1.png"/>
+
 # Hi 👋, I Am Aditya!
 
-- 🔭 I’m currently working as a Data Engineer.
-- 👯 My current tech stack includes Scala, Akka and related technologies.
+- I'm a Software Engineer at [HashedIn Technologies](https://in.linkedin.com/company/hashedin).
+- Currently working on Scala and Akka.
+- Currently learning MongoDB and Blockchain.
 
 ## Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java SpringBoot" alt="Java SpringBoot" width="40"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40"/>&ensp;
-<img src="" title="" alt="" width="40"/>&ensp;
-<img src="" title="" alt="" width="40"/>&ensp;
-<img src="" title="" alt="" width="40"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50"/>&ensp;
+<img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/akka.png" title="Akka" alt="Akka" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java SpringBoot" alt="Java SpringBoot" width="50"/>&ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>&ensp;
 
 ## Connect with me:
 
