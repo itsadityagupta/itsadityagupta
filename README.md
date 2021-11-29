@@ -33,6 +33,8 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gupta1&theme=dark" width="48%" >
 
 
+<img src="https://komarev.com/ghpvc/?username=Aditya-Gupta1" title="Profile Count"/>
+
 [linkedin]: https://www.linkedin.com/in/aditya-gupta008
 [twitter]: https://www.twitter.com/itsadityagupta
 [gmail]: mailto:guptaaditya008@gmail.com
