@@ -39,7 +39,7 @@
 - [An ultimate hack to prevent BURNOUT!](https://adityagupta.hashnode.dev/an-ultimate-hack-to-prevent-burnout)
 - [Lessons learnt from 8 months of Job Search](https://adityagupta.hashnode.dev/lessons-learnt-from-8-months-of-job-search)
 - [Relations in MongoDB](https://adityagupta.hashnode.dev/relations-in-mongodb)
-<!-- BLOG-POST-LIST:END -->\
+<!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://adityagupta.hashnode.dev)
 
 ## 🖥⌨ Most used Languages 
