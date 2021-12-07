@@ -34,11 +34,11 @@
 ## <a href="https://adityagupta.hashnode.com/"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+- [Difference between def and val in Scala](https://adityagupta.hashnode.dev/difference-between-def-and-val-in-scala)
 - [Engineering Redefined](https://adityagupta.hashnode.dev/engineering-redefined)
 - [7 Amazing newsletters that you&#39;re missing out on!](https://adityagupta.hashnode.dev/7-amazing-newsletters-that-youre-missing-out-on)
 - [An ultimate hack to prevent BURNOUT!](https://adityagupta.hashnode.dev/an-ultimate-hack-to-prevent-burnout)
 - [Lessons learnt from 8 months of Job Search](https://adityagupta.hashnode.dev/lessons-learnt-from-8-months-of-job-search)
-- [Relations in MongoDB](https://adityagupta.hashnode.dev/relations-in-mongodb)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://adityagupta.hashnode.dev)
 
