@@ -1,58 +1,45 @@
-<img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/banner1.png"/>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Gupta
+====================================================================================================================================
 
-# Hi 👋, I Am Aditya!
+Data Engineer @ HashedIn by Deloitte
+------------------------------------
 
-- I'm a Software Engineer at [HashedIn Technologies](https://in.linkedin.com/company/hashedin).
-- Currently working on Scala and Akka.
-- Currently learning MongoDB and Blockchain.
+I'm working on building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis. My interest grew as I got more into the data engineering field and ever since I'm learning something or the other in this domain. Some of the things that I learned recently are Data Warehousing and Dimension Modelling, Shell scripting and Big Data Fundamentals.
 
-## Tech Stack
+* 🌍  I'm based in India
+* ✉️  You can contact me at [guptaaditya008@gmail.com](mailto:guptaaditya008@gmail.com)
+* 🧠  I'm learning Hadoop!
+* 🤝  I'm open to collaborating on data engineering projects
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50"/>&ensp;
-<img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/akka.png" title="Akka" alt="Akka" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Java SpringBoot" alt="Java SpringBoot" width="50"/>&ensp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>&ensp;
+<a href="https://www.twitter.com/itsadityagupta" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/itsadityagupta?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/Aditya-Gupta1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Aditya-Gupta1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## Connect with me:
+### Skills
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://akka.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/akka.png" width="36" height="36" alt="Akka" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-<a href="https://twitter.com/itsadityagupta"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/aditya-gupta008/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-&ensp;<a href="https://www.instagram.com/itsadityagupta"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a>
-&ensp;<a href="https://adityagupta.hashnode.dev/"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-&ensp;<a href="mailto:guptaaditya008@gmail.com"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/gmail.svg" title="Gmail" alt= "Email" width="30"/></a>
-&ensp;<a href="https://www.getrevue.co/profile/itsadityagupta"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/revue.svg" title="Revue Newsletter" alt="Newsletter" width="70"/></a>
+### Socials
 
-## <a href="https://adityagupta.hashnode.com/"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
+<p align="left"> <a href="https://www.github.com/Aditya-Gupta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://itsadityagupta.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-gupta008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/itsadityagupta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
-<!-- BLOG-POST-LIST:START -->
-- [Creating and Importing Documents in MongoDB](https://adityagupta.hashnode.dev/creating-and-importing-documents-in-mongodb)
-- [Schema Validation in MongoDB](https://adityagupta.hashnode.dev/schema-validation-in-mongodb)
-- [Difference between def and val in Scala](https://adityagupta.hashnode.dev/difference-between-def-and-val-in-scala)
-- [Engineering Redefined](https://adityagupta.hashnode.dev/engineering-redefined)
-- [7 Amazing newsletters that you&#39;re missing out on!](https://adityagupta.hashnode.dev/7-amazing-newsletters-that-youre-missing-out-on)
-<!-- BLOG-POST-LIST:END -->
-▶ [...more blog articles](https://adityagupta.hashnode.dev)
+<b>My GitHub Stats</b>
 
-## 🖥⌨ Most used Languages 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Gupta1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/Aditya-Gupta1"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-Gupta1&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aditya-Gupta1's GitHub stats" /></a>
 
-## :zap: Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Gupta1&show_icons=true&theme=gotham&count_private=true" alt="github stats" width="45%" align="right"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gupta1&theme=dark" width="48%" >
+<a href="http://www.github.com/Aditya-Gupta1"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya-Gupta1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### Support Me
 
-<img src="https://komarev.com/ghpvc/?username=Aditya-Gupta1" title="Profile Count"/>
-
-[linkedin]: https://www.linkedin.com/in/aditya-gupta008
-[twitter]: https://www.twitter.com/itsadityagupta
-[gmail]: mailto:guptaaditya008@gmail.com
+<a href="https://www.buymeacoffee.com/itsadityagupta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
