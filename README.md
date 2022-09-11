@@ -28,7 +28,6 @@ src="https://img.shields.io/github/followers/Aditya-Gupta1?logo=github&style=for
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://akka.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/akka.png" width="36" height="36" alt="Akka" /></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" /></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
