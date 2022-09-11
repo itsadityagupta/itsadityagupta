@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer @ HashedIn by Deloitte
 ------------------------------------
 
-I'm working on building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis. My interest grew as I got more into the data engineering field and ever since I'm learning something or the other in this domain. Some of the things that I learned recently are Data Warehousing and Dimension Modelling, Shell scripting and Big Data Fundamentals.
+I'm working on building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis. 
+
+
+My interest grew as I got more into the data engineering field and ever since I'm learning something or the other in this domain. Some of the things that I learned recently are Data Warehousing and Dimension Modelling, Shell scripting and Big Data Fundamentals.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [guptaaditya008@gmail.com](mailto:guptaaditya008@gmail.com)
