@@ -1,8 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Gupta
-====================================================================================================================================
-
-Data Engineer @ HashedIn by Deloitte
-------------------------------------
+## Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile!
 
 I'm working on building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis. 
 
