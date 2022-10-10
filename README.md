@@ -25,4 +25,6 @@ src="https://img.shields.io/twitter/follow/itsadityagupta?logo=twitter&style=for
 
 ### Connect with me
 
-<p align="left"> <a href="https://www.github.com/Aditya-Gupta1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://itsadityagupta.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-gupta008" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/itsadityagupta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+👉 Twitter: [itsadityagupta](https://twitter.com/itsadityagupta)<br>
+👉 LinkedIn: [aditya-guppta008](https://linkedin.com/in/aditya-gupta008)<br>
+👉 Hashnode: [itsadityagupta](https://itsadityagupta.hashnode.dev/)
