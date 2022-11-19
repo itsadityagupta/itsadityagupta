@@ -2,7 +2,7 @@
 
 I'm building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis.
 
-* 🧠  I'm currently learning Hive and writing a blog on it!
+* 🧠  I'm currently learning Apache Spark and AWS!
 * 👋 I'm open to collaborating on data engineering projects/open-source.
 
 <a href="https://www.twitter.com/itsadityagupta" target="_blank" rel="noreferrer"><img
