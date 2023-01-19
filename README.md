@@ -2,8 +2,9 @@
 
 I'm building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis.
 
-* 🧠  I'm currently learning Apache Spark and AWS!
+* 🧠  I'm currently participating in the [Data Engineering Zoomcamp 2023](https://github.com/DataTalksClub/data-engineering-zoomcamp)!
 * 👋 I'm open to collaborating on data engineering projects/open-source.
+* 🎉 I recently got AWS Cloud Practitioner Certified!
 
 <a href="https://www.twitter.com/itsadityagupta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsadityagupta?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
