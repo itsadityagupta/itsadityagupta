@@ -10,6 +10,7 @@ I'm building and maintaining large-scale, distributed data pipelines on Akka and
 
 * **Programming languages:** Scala, Python
 * **Big Data Processing Frameworks:** Akka, Apache Spark/PySpark
+* **Stream Processing:** Akka Streams, Kafka Streams, Spark Structured Streaming
 * **Data Warehouse:** BigQuery
 * **Data Transformation Tools:** DBT (Data Build Tool)
 * **Workflow Orchestration:** Airflow, Prefect, Cloud Composer
