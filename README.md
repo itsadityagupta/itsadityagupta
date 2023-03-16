@@ -27,5 +27,5 @@ src="https://img.shields.io/twitter/follow/itsadityagupta?logo=twitter&style=for
 ### Connect with me
 
 👉 Twitter: [itsadityagupta](https://twitter.com/itsadityagupta)<br>
-👉 LinkedIn: [aditya-gupta008](https://linkedin.com/in/aditya-gupta008)<br>
+👉 LinkedIn: [itsadityagupta](https://linkedin.com/in/itsadityagupta)<br>
 👉 Hashnode: [itsadityagupta](https://itsadityagupta.hashnode.dev/)
