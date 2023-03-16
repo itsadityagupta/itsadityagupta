@@ -8,15 +8,17 @@ I'm building and maintaining large-scale, distributed data pipelines on Akka and
 
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width="36" height="36" alt="Scala" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://akka.io/" target="_blank" rel="noreferrer"><img src="https://github.com/Aditya-Gupta1/Aditya-Gupta1/blob/main/akka.png" width="36" height="36" alt="Akka" /></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Apache Kafka" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+* **Programming languages:** Scala, Python
+* **Big Data Processing Frameworks:** Akka, Apache Spark/PySpark
+* **Data Warehouse:** BigQuery
+* **Data Transformation Tools:** DBT (Data Build Tool)
+* **Workflow Orchestration:** Airflow, Prefect, Cloud Composer
+* **Cloud:** GCP, AWS
+* **Database:** PostgreSQL
+* **Container Orchestration:** Docker, Docker Compose
+* **CI/CD Tools:** GitHub Actions
+* **Message Queues:** Kafka
+* **Infrastructure-as-a-code:** Terraform
 
 ### Connect with me
 
