@@ -3,6 +3,7 @@
 I'm building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis.
 
 * 🧠  I'm currently participating in the [Data Engineering Zoomcamp 2023](https://github.com/DataTalksClub/data-engineering-zoomcamp)!
+* 🏗️ I'm currently building [Plane Crash Data Engineering Project](https://github.com/itsadityagupta/plane-crash-de-project)
 * 👋 I'm open to collaborating on data engineering projects/open-source.
 * 🎉 I recently got AWS Cloud Practitioner Certified!
 
