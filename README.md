@@ -1,6 +1,6 @@
 ## Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile!
 
-I'm building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis.
+I'm a data engineer with 2+ years of work experience. I'm working in the ad tech space right now and have worked in the fintech domain in the past.
 
 * 🧠 I'm currently reading [Fundamentals of Data Engineering by Joe Reis and Matt Housley](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * 👋 I'm open to collaborating on data engineering projects/open-source.
