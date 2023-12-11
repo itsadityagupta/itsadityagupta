@@ -2,9 +2,9 @@
 
 I'm building and maintaining large-scale, distributed data pipelines on Akka and Scala. Along with this, I use tools like Kafka, Azure CosmosDB, Kubernetes and Docker on a day-to-day basis.
 
-* 🧠 I'm currently building [Plane Crash Data Engineering Project](https://github.com/itsadityagupta/plane-crash-de-project)
+* 🧠 I'm currently reading [Fundamentals of Data Engineering by Joe Reis and Matt Housley](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * 👋 I'm open to collaborating on data engineering projects/open-source.
-* 🎉 I recently graduated from the [Data Engineering Zoomcamp 2023](https://drive.google.com/file/d/1qHF3cGu0pwRDcOhpyx19EdB3ehGXTFN6/view?usp=share_link)! Find my capstone project [here](https://github.com/itsadityagupta/yelposphere).
+* 🎉 I graduated from the [Data Engineering Zoomcamp 2023](https://drive.google.com/file/d/1qHF3cGu0pwRDcOhpyx19EdB3ehGXTFN6/view?usp=share_link) this year! Find my capstone project [here](https://github.com/itsadityagupta/yelposphere).
 
 ### Skills
 
